@@ -2,7 +2,7 @@
 Macroeconomic analysis of Australia using Cobb-Douglas production function and Solow growth model. Features data collection from World Bank, time-series analysis, and econometric modeling with Python.
 
 ## Installation
-Для установки зависимостей используйте проекта
+Для установки зависимостей проекта используйте 
 
 ```bash
 pip install -e .
