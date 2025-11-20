@@ -1,0 +1,12 @@
+[project]
+name = "australia-economic-analysis"
+description = "Macroeconomic analysis of Australia 1992-2024 using Cobb-Douglas and Solow models"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "pandas-datareader",
+    "scikit-learn", 
+    "matplotlib",
+]
